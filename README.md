@@ -15,3 +15,8 @@ cargo install --url https://www.rust-lang.org/tools/install
 The first argument is the number you want to craft.
 Write each number you have access to as the most basic ingredients as a following argument.
 
+### Example
+```bash
+beltmatics-optimizer 327 1 2 3 4 5 6 7
+```
+
