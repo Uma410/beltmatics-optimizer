@@ -4,7 +4,7 @@ This is a simple script to get an optimal way to craft a target number in the ma
 
 ## Installation
 
-1. Install the [Rust toolchain](https://www.rust-lang.org/tools/install).
+1. Install the [Rust toolchain](https://github.com/Uma410/beltmatics-optimizer.git).
 2. Install this tool using cargo.
 ```bash
 cargo install --url https://www.rust-lang.org/tools/install
